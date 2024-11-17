@@ -1,3 +1,6 @@
+
+**Business Questions**
+
 1.	Sales Performance Trends
 o	How have sales and profit changed over time (monthly, quarterly, or yearly)?
 o	Which months or quarters show peak sales performance, and which are underperforming?
